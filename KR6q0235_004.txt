@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:48:24.089977
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:04
 #+TITLE: 一貫別傳
 #+PROPERTY: CBETA_ID J40nB480
 #+PROPERTY: ID KR6q0235
@@ -13,7 +13,7 @@
  一貫別傳卷四¶
 西蜀忠州聚雲寺沙門　廣真　著¶
 
-楞嚴經¶
+** 楞嚴經¶
 
 「總說。」¶
 
